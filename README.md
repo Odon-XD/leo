@@ -14,7 +14,7 @@ $ git clone https://github.com/Odon-XD/leo
 
 $ ls
 
-$ cd leo
+$  cd leo
 
 $ python leo.py
 
