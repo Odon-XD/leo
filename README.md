@@ -1,4 +1,3 @@
-
 $ pkg update && pkg upgrade
 
 $ pkg install python git
@@ -15,7 +14,7 @@ $ git clone https://github.com/Odon-XD/leo
 
 $ ls
 
-$  cd leo
+$ cd leo
 
 $ python leo.py
 
