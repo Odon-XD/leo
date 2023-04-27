@@ -16,7 +16,7 @@ $ ls
 
 $ cd leo
 
-$ python leoV2.py
+$ python leoV3.py
 
 # leo
 Untuk Crack Akun Bapak Kau 
