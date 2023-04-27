@@ -2,13 +2,17 @@ $ pkg update && pkg upgrade
 
 $ pkg install python git
 
-$ pip install requests mechanize
+$ pkg install play-audio
 
-$ pip install --upgrade pip
+$ pip install requests mechanize
 
 $ pip install rich bs4
 
 $ pip install stdiomask
+
+$ pip install requests
+
+$ pip install --upgrade pip
 
 $ git clone https://github.com/Odon-XD/leo
 
