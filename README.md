@@ -26,4 +26,4 @@ $ python leoV3.py
 Untuk Crack Akun Bapak Kau 
 
 # hasil
-![alt text](https://github.com/Odon-XD/leo/blob/main/F/IMG_20230430_152001.jpg?raw=true)
+![alt text](https://github.com/Odon-XD/leo/tree/main/Hasil?raw=true)
