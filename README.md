@@ -26,4 +26,3 @@ $ python leoV3.py
 Untuk Crack Akun Bapak Kau 
 
 # hasil
-https://ibb.co/J3y80Gp
