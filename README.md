@@ -20,7 +20,7 @@ $ ls
 
 $ cd leo
 
-$ python leoV3.py
+$ python leoV7.py
 
 # leo
 Untuk Crack Akun Bapak Kau 
